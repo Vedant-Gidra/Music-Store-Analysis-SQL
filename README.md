@@ -29,6 +29,9 @@ The project was divided into three sets of questions:
 - Find the most popular music genre for each country (based on purchases).
 - Identify the top customer by amount spent in each country.
 
+Note:- For detailed questions please refer music store analysis-Questions.pdf
+link: https://github.com/Vedant-Gidra/Music-Store-Analysis-SQL/blob/main/Music%20Store%20Analysis-Questions.pdf
+
 ## 📈 Key Learnings
 - Writing complex SQL queries involving **JOINs**, **GROUP BY**, **ORDER BY**, **subqueries**, **aggregate functions**, **common table expression**
 - Performing detailed customer and sales analysis.
